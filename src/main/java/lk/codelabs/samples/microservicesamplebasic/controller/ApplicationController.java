@@ -12,7 +12,7 @@ public class ApplicationController {
 
         Response response = new Response();
         response.setCode("SAMPLE_CODE");
-        response.setMessage("welcome to microservices dilz springboot 2.0");
+        response.setMessage("welcome to microservices dilz Kavi springboot 2.0");
         return response;
 
     }
