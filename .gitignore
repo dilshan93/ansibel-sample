@@ -1,1 +1,6 @@
 /.idea/
+/target/classes/application.properties
+/target/classes/lk/codelabs/samples/microservicesamplebasic/controller/ApplicationController.class
+/target/classes/lk/codelabs/samples/microservicesamplebasic/MicroserviceSampleBasicApplication.class
+/target/test-classes/lk/codelabs/samples/microservicesamplebasic/MicroserviceSampleBasicApplicationTests.class
+/target/classes/lk/codelabs/samples/microservicesamplebasic/model/Response.class
